@@ -90,7 +90,6 @@ composer.phar
 # ==========================================
 # 5. COMPILACIÓN / COMPILADORES / BUILD OUT (Dist/Build)
 # ==========================================
-dist/
 build/
 out/
 .next/
@@ -144,8 +143,6 @@ storage/logs/
 
 
 # Archivos subidos por usuarios / Media local de prueba
-front/dist/assets/imagenes/
-front/dist/assets/videos/
 **/uploads/
 *.mp4
 *.mkv
