@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+
+    .titulo-portada {
+        font-size: 2.2rem;
+    }
+
+    .subtitulo-portada {
+        font-size: 1rem;
+    }
+
+    .boton-grande {
+        padding: 0.65rem 1.8rem;
+        font-size: 0.95rem;
+    }
+
+    .titulo-seccion {
+        font-size: 1.6rem;
+    }
+
+    .tarjeta-auto,
+    .tarjeta-servicio,
+    .tarjeta-producto {
+        margin-bottom: 1rem;
+    }
+
+    .zona-contacto h2 {
+        font-size: 1.5rem;
+    }
+
+    .encabezado-interno h1 {
+        font-size: 1.8rem;
+    }
+}
